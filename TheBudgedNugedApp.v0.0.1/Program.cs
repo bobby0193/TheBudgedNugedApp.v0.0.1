@@ -6,7 +6,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("\nWellcome to the TheBudgedNugedApp");
+        Console.WriteLine("\nWellcome to the TheBudgedNugedApp ");
         Console.WriteLine("_________________________________");
         Console.WriteLine("\nHow many expenses do you suspect you will have?\n");
         int numberOfExpenses = Convert.ToInt32(Console.ReadLine());
